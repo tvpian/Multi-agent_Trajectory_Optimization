@@ -1,0 +1,6 @@
+Number  of agents,Discrete path planning (s),Safe corridor construction (s),Trajectory optimization (s),Total (s),Cost
+4,0.001,0.005,0.114,0.121,1.17006
+8,0.001,0.01,0.244,0.256,2.20659
+16,0.002,0.021,0.902,0.926,5.81818
+24,0.033,0.091,2.19,2.256,7.7453
+32,1.996,0.043,6.126,8.174,15.9232

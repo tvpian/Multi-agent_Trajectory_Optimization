@@ -1,0 +1,4 @@
+Grouping Strategy,,Number of agents,,,,
+,,4,8,16,24,32
+Proposed Method,,100,100,100,100,85
+Randomly Grouping,,100,100,100,85,75
