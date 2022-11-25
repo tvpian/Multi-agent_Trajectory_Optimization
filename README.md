@@ -42,4 +42,5 @@ roslaunch multi_robot_traj_planner prioritized_plan_random_env.launch
 ## Simulation Data
 Data gathered from the simulations can be viewed in the `simulation_data` folder.
 
-
+## 4. Acknowledgments
+Our implementation is built on top of the work of the official repo of the reference paper[Efficient trajectory planning for multiple non-holonomic mobile robots via prioritized trajectory optimization](https://github.com/LIJUNCHENG001/multi_robot_traj_planner) 
