@@ -1,6 +1,9 @@
 
 # Multi-agent Trajectory Optimization
 
+## Description
+We have focused on understanding the novel trajectory planning technique proposed in the reference paper- "Efficient trajectory planning for multiple non-holonomic mobile robots via prioritized trajectory optimization". Further, we have analyzed and discussed the methodology of the solution. The simulation results are replicated and the significant inferences stated by the authors are validated. Finally, the hyper-parameters of the solution are altered to extract additional inferences.
+
 ## 1. Software Requirements
 * Ubuntu 20.04
 * ROS Noetic
